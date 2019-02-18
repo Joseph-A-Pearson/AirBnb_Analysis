@@ -3,7 +3,7 @@
 
 The aim was to build a predictive model that would predict the occupancy of an AirBnb listing based on the information in the listing and reviews of each listing. Currently the analysis and models are for the Berlin, Germany only, but I aim to expand the scope in the future.
 
-**Part 1** Is The initial Ideas stage. The requirements were to identify two projects that we would like to investigate and what we might aim to predict. Two options were presented; Predicting earthquake damage, or the adopted idea, Predicting Airbnb occupancy rates in Berlin.
+**Part 1** is The initial Ideas stage. The requirements were to identify two projects that we would like to investigate and what we might aim to predict. Two options were presented; Predicting earthquake damage, or the adopted idea, Predicting Airbnb occupancy rates in Berlin.
 
 **Part 2** is an initial analysis and cleaning of the csv files.
 
