@@ -21,4 +21,4 @@ The Final Project on the Data Science & Machine Learning Immersive Course at Gen
 ## Contents
 The majority of the deliverables that were created for each checkpoint of the project
 
-To run, the file Capstone_DATA/Berlin/BERLIN_LISTINGS_AND_REVIEWS.zip must be unzipped inplace.
+To run, work through each notebook from part 2 through to part 4. this may take some time to run. The data files are included in a zip file and will be extracted automaticly.
